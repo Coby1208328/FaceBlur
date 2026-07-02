@@ -1,9 +1,9 @@
 Face Blurring Security Algorithm
+
 An algorithm that is able to detect faces in images and then blur the face(s) that you would like to blur.
 
 
 The Algorithm
-
 Setup & Usage
 Before running the script, you must install the required dependency:
 pip install opencv-python
